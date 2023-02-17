@@ -26,7 +26,7 @@ public class Taller01 {
         String dato;
         
         Random claseRandom = new Random();
-       /* num1 = 1 + claseRandom.nextInt(2024-1);
+        num1 = 1 + claseRandom.nextInt(2024-1);
         num2 = 1 + claseRandom.nextInt(2024-1);
         System.out.println("EJERCICIO NUMERO 1");
 
@@ -39,9 +39,9 @@ public class Taller01 {
         System.out.println("2. for each");
         System.out.println("3. while");
         System.out.println("4. do while");
-        System.out.println("Seleccione su opcion:"); */
+        System.out.println("Seleccione su opcion:"); 
         Scanner lectura = new Scanner (System.in); 
-       /* String eleccion1 = lectura.next()  ;
+        String eleccion1 = lectura.next()  ;
         switch(eleccion1){
            case ("1"):
                for(num3=1; num3<num2; num3++){
@@ -241,8 +241,7 @@ public class Taller01 {
                
 
         }
-        */
-       /*
+        
         System.out.println("EJERCICIO NUMERO 3");
 
         System.out.println("Seleccion que bucle desea probar (usando los numeros indicados) :");
@@ -377,7 +376,7 @@ public class Taller01 {
             default:
             System.out.println("Seleccion una de las opciones validas");
         }
-        */
+       
         System.out.println("EJERCICIO NUMERO 4");
 
         System.out.println("Seleccion que bucle desea probar (usando los numeros indicados) :");
