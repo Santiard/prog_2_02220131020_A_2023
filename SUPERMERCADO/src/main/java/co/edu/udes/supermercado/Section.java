@@ -6,7 +6,7 @@ package co.edu.udes.supermercado;
 
 /**
  *
- * @author molin
+ * @author ARDILA
  */
 public class Section {
     private String name;
