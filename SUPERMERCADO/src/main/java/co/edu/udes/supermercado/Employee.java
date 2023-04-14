@@ -6,7 +6,7 @@ package co.edu.udes.supermercado;
 
 /**
  *
- * @author molin
+ * @author ARDILA
  */
 public class Employee extends Person{
     private double salary;
