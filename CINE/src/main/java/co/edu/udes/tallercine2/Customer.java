@@ -6,7 +6,7 @@ package co.edu.udes.tallercine2;
 
 /**
  *
- * @author ROZO
+ * @author ARDILA
  */
 public class Customer {
       private String name;
