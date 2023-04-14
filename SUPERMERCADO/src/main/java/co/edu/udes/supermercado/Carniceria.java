@@ -6,7 +6,7 @@ package co.edu.udes.supermercado;
 
 /**
  *
- * @author molin
+ * @author ARDILA
  */
 public class Carniceria {
     private int amount_meat;
