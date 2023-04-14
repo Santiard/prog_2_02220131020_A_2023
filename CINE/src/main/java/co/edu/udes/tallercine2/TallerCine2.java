@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Sebas
+ * @author ARDIL
  */
 public class TallerCine2 {
 
