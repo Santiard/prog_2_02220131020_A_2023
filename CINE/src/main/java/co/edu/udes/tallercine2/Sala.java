@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author ROZO
+ * @author ARDILA
  */
 public class Sala {
      private int capacity;
